@@ -1,0 +1,13 @@
+/* Simple styling for the footer */
+footer {
+    background-color: #2d2d2d;
+  }
+  
+  footer a {
+    color: inherit;
+  }
+  
+  footer a:hover {
+    color: #3b82f6; /* Blue color on hover */
+  }
+  
